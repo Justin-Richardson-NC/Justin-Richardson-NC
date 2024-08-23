@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Justin-Richardson-NC/Ticket-Lifecycle-Examples/blob/main/README.md)
 - <b>Microsoft Azure</b>
   - [Creating A Virtual Machine In Microsoft Azure](https://github.com/Justin-Richardson-NC/Create-A-VM-in-Azure)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Justin-Richardson-NC/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Justin-Richardson-NC/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 <h2>🤳Connect with me:</h2>
